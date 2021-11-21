@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github NFT Card](https://github.com/diazamaliana/01-NFT)
-- Live Site URL: [NFT Card Preview](https://your-live-site-url.com)
+- Solution URL: [Github NFT Card](https://github.com/diazamaliana/01_NFT-Card)
+- Live Site URL: [NFT Card Preview](https://diazamaliana.github.io/01_NFT-Card/)
 
 ## My process
 
