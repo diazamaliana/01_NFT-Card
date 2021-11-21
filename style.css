@@ -134,6 +134,10 @@ body {
     font-weight: 300;
 }
 
+.card__footer span {
+    color: white;
+}
+
 .card__footer a, .attribution a {
     text-decoration: none;
     color: var(--soft-blue);
@@ -147,7 +151,7 @@ body {
     border-radius: 50%;
 }
 
-.card__body-title:hover, .card__footer a:hover, .attribution a:hover {
+.card__body-title:hover, .card__footer span:hover, .attribution a:hover {
     color: var(--cyan);
     cursor: pointer;
 }
